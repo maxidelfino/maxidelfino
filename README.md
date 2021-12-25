@@ -1,4 +1,4 @@
-## Hola, I'm [Maxi Delfino](linkedin.com/in/maximiliano-delfino) 👋
+## Hola, I'm [Maxi Delfino](https://www.linkedin.com/in/maximiliano-delfino?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDoAXqk71Sjm7NwSjiZGQAw%3D%3D) 👋
 
 <a href="https://twitter.com/Maxiidelfino">
   <img align="left" alt="Maxi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
