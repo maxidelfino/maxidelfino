@@ -38,7 +38,7 @@
 ### Thanks for your visit ❤️
 
 </div>
-© 2023 GitHub, Inc.
+© 2025 GitHub, Inc.
 Terms
 Privacy
 Security
